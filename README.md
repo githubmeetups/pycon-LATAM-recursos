@@ -1,5 +1,20 @@
-# IA-estudio
+# Maximizando Tu Potencial con GitHub Copilot y Prompt Engineering
 
-[Sea-Change-in-Software-Dev.pdf](https://github.com/githubpresente/IA-estudio/files/12087878/Sea-Change-in-Software-Dev.pdf)
+![Screenshot 2023-08-21 at 10 01 08 PM](https://github.com/githubpresente/IA-estudio/assets/20666190/89335996-242c-42e5-ad77-7882fdd74f68)
 
-[platzi-andrea-deck.pdf](https://github.com/githubpresente/IA-estudio/files/12090241/platzi-andrea-deck.pdf)
+## Bienvenidx
+
+Gracias por asistir a mi charla. Para mí, es un gran privilegio contar con tu tiempo. Espero que te hayas llevado algo de buen humor y valor que puedan enriquecer tu carrera.
+
+## Contacto
+
+Si tienes alguna pregunta o comentario, no dudes en contactarme. Estoy a tu disposición:
+
+- **Instagram, Twitter, y Bsky Social**: @alacolombiadev
+- **Email**: [andreagriffiths11@github.com](mailto:andreagriffiths11@github.com)
+
+# Recursos
+
+- **Reporte impacto IA**: [Sea-Change-in-Software-Dev.pdf](https://github.com/githubpresente/IA-estudio/files/12087878/Sea-Change-in-Software-Dev.pdf)
+- **Deck**: [pycon-andrea-deck.pdf](tb)
+
