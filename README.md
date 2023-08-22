@@ -10,7 +10,7 @@ Gracias por asistir a mi charla. Para mí, es un gran privilegio contar con tu t
 
 Si tienes alguna pregunta o comentario, no dudes en contactarme. Estoy a tu disposición:
 
-- **Instagram, Twitter, y Bsky Social**: @alacolombiadev
+- **Instagram, ~Twitter~ X, y Bsky Social**: @alacolombiadev
 - **Email**: [andreagriffiths11@github.com](mailto:andreagriffiths11@github.com)
 
 # Recursos
