@@ -14,7 +14,7 @@ Si tienes alguna pregunta o comentario, no dudes en contactarme. Estoy a tu disp
 - **Email**: [andreagriffiths11@github.com](mailto:andreagriffiths11@github.com)
 
 # Recursos
-
+- **GitHub Presente Meetup en Espanol**: [https://www.meetup.com/githublatam/](https://www.meetup.com/githublatam/)
 - **Reporte impacto IA**: [Sea-Change-in-Software-Dev.pdf](https://github.com/githubpresente/IA-estudio/files/12087878/Sea-Change-in-Software-Dev.pdf)
-- **Deck**: [pycon-andrea-deck.pdf](tb)
+- **Deck**: [pycon-andrea-deck.pdf](tbd)
 
