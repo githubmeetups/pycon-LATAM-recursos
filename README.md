@@ -18,4 +18,4 @@ Si tienes alguna pregunta o comentario, no dudes en contactarme. Estoy a tu disp
 - **Reporte impacto IA**: [Sea-Change-in-Software-Dev.pdf](https://github.com/githubpresente/IA-estudio/files/12087878/Sea-Change-in-Software-Dev.pdf)
 - **GitHub's CEO Thomas Dhomke contruyendo un juego de culebra en vivo**: [Desde Brasil](https://www.youtube.com/watch?v=w0iwIzpypGc&pp=ygUXdGhvbWFzIGRvbWhrZSBjb2xsaXRpb24%3D)
 - **Deck**: [pycon-andrea-deck](https://drive.google.com/file/d/1x4U8gacHxWck_Uq8oS9KM8kwYAgkek-c/view?usp=sharing)
-
+- **Sorteo**: [Entrada al sorteo durante la conferencia](gh.io/sorteo)
